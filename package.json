@@ -1,0 +1,25 @@
+{
+  "name": "cargowise",
+  "version": "1.0.0",
+  "description": "A module to use cargowise eAdapter api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "soap": "^0.36.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.36",
+    "@types/node-fetch": "^2.5.8",
+    "@types/request": "^2.48.5",
+    "@types/sax": "^1.2.1",
+    "@types/uuid": "^8.3.0",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.3"
+  }
+}
