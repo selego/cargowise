@@ -1,8 +1,12 @@
 {
   "name": "cargowise",
   "version": "1.0.0",
-  "description": "A module to use cargowise eAdapter api",
+  "description": "A simplified SOAP client for interacting with CargoWise eAdaptor SOAP web services.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/selego/cargowise.gitt"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
