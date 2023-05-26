@@ -1,4 +1,7 @@
 This package has been developed by [Docloop](https://en.docloop.io/cargowise-toolbox), an integrator for CargoWise.
+
+##### If you are interested in integrating CargoWise into your business and need assistance, please fill out our [integration form](https://en.docloop.io/cargowise-toolbox#Contact-us-from) and our team will get in touch with you.
+
 # CargoWise Client
 A simplified SOAP client for interacting with CargoWise eAdaptor SOAP web services.
 ## Installation
