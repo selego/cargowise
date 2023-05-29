@@ -1,6 +1,6 @@
 {
   "name": "cargowise",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A simplified SOAP client for interacting with CargoWise eAdaptor SOAP web services.",
   "main": "index.js",
   "repository": {
