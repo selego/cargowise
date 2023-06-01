@@ -1,4 +1,4 @@
-This package has been developed by [Docloop](https://l.linklyhq.com/l/1nexe), an integrator for CargoWise.
+
 
 ### If you are interested in integrating CargoWise into your business and need assistance, please fill out our [integration form](https://l.linklyhq.com/l/1ny0n) and our team will get in touch with you.
 
@@ -66,5 +66,8 @@ The following environment variables are required:
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+This package has been developed by [Docloop](https://l.linklyhq.com/l/1nexe), an integrator for CargoWise.
+
 
 **Disclaimer: This is an unofficial package and not officially endorsed or maintained by CargoWise.**
